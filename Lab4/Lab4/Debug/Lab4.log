@@ -1,0 +1,5 @@
+﻿  Lab4.cpp
+C:\Users\User\source\repos\Lab4\Lab4\Lab4.cpp(17,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Lab4\Lab4\Lab4.cpp(44,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Lab4\Lab4\Lab4.cpp(100,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab4.vcxproj -> C:\Users\User\source\repos\Lab4\Debug\Lab4.exe

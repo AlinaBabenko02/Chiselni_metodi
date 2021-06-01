@@ -1,0 +1,7 @@
+﻿  Lab3.cpp
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.cpp(18,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.cpp(32,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.cpp(35,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.cpp(40,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Lab3\Lab3\Lab3.cpp(67,9): warning C4101: first: неиспользованная локальная переменная
+  Lab3.vcxproj -> C:\Users\User\source\repos\Lab3\Debug\Lab3.exe
