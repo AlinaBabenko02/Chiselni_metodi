@@ -1,0 +1,32 @@
+﻿  Gaus.cpp
+  Lab4.cpp
+C:\Users\User\source\repos\Lab4\Lab4\Lab4.cpp(18,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Lab4\Lab4\Lab4.cpp(36,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Lab4\Lab4\Lab4.cpp(150,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Lab4\Lab4\Lab4.cpp(194,40): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\Lab4\Lab4\Lab4.cpp(195,42): warning C4244: =: преобразование "_Ret" в "T", возможна потеря данных
+          with
+          [
+              _Ret=double
+          ]
+          and
+          [
+              T=float
+          ]
+  Создание кода...
+Lab4.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QAE@PBDABVlocale@std@@@Z) в функции _main.
+Lab4.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::String::~String(void)" (__imp_??1String@sf@@QAE@XZ) в функции _main.
+Lab4.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QAE@III@Z) в функции _main.
+Lab4.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Window::Window(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0Window@sf@@QAE@VVideoMode@1@ABVString@1@IABUContextSettings@1@@Z) в функции _main.
+Lab4.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::Window::~Window(void)" (__imp_??1Window@sf@@UAE@XZ) в функции _main.
+Lab4.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Window::close(void)" (__imp_?close@Window@sf@@QAEXXZ) в функции _main.
+Lab4.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __thiscall sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QBE_NXZ) в функции _main.
+Lab4.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __thiscall sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QAE_NAAVEvent@2@@Z) в функции _main.
+Lab4.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::VertexArray::VertexArray(enum sf::PrimitiveType,unsigned int)" (__imp_??0VertexArray@sf@@QAE@W4PrimitiveType@1@I@Z) в функции _main.
+Lab4.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Vertex & __thiscall sf::VertexArray::operator[](unsigned int)" (__imp_??AVertexArray@sf@@QAEAAVVertex@1@I@Z) в функции _main.
+Lab4.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::VertexArray::~VertexArray(void)" (__imp_??1VertexArray@sf@@UAE@XZ) в функции _main.
+C:\Users\User\source\repos\Lab4\Debug\Lab4.exe : fatal error LNK1120: неразрешенных внешних элементов: 11
